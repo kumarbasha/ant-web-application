@@ -38,7 +38,7 @@
 	</target>
 
 	<!-- Define the CLASSPATH -->
-
+        <!-- Define the CLASSPATH -->
 	<path id="master-classpath">
 		<fileset dir="${web.home}/WEB-INF/lib">
 			<include name="*.jar"/>
